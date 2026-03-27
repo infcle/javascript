@@ -5,6 +5,11 @@ Ejercicios: Condicionales
 // if/else/else if/ternaria
 
 // 1. Imprime por consola tu nombre si una variable toma su valor
+let nombre = "Alice";
+if (nombre) {
+    console.log(nombre);
+}
+
 
 // 2. Imprime por consola un mensaje si el usuario y contraseña concide con unos establecidos
 
